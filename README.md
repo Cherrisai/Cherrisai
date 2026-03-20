@@ -198,7 +198,7 @@
 
 
 <div align="center">
-<img src="PASTE_YOUR_COPIED_LINK_HERE" width="380" alt="coding room"/>
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="380" alt="coding"/>
 </div>
 <!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
