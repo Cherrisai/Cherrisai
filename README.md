@@ -269,5 +269,10 @@
 <br/>
 </div>
 
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+visiting!;Keep+Building+Keep+Growing!;See+you+in+the+next+commit!" alt="Thank you"/>
+</div>
+
 <!-- ========== FOOTER WAVE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:0d0040,60:1a0066,100:000010&height=130&section=footer&text=Keep+Building&fontSize=24&fontColor=a78bfa&animation=fadeIn&fontAlignY=65" width="100%"/>
