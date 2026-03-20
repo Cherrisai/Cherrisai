@@ -275,13 +275,4 @@
 </div>
 
 
----
 
-**Option 3 — Best approach — upload your own**
-
-**Step 1** — Download this GIF directly:
-```
-https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif
-
-<!-- ========== FOOTER WAVE ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000010,30:0d0040,60:1a0066,100:000010&height=130&section=footer&text=Keep+Building&fontSize=24&fontColor=a78bfa&animation=fadeIn&fontAlignY=65" width="100%"/>
