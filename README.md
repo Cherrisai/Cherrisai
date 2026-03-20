@@ -49,12 +49,9 @@
 
 </div>
 
-
 <div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="380" alt="working at computer"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="working computer"/>
 </div>
-
-
 <!-- ========== COLOUR LINE ========== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
