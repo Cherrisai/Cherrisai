@@ -188,7 +188,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=580&height=110&lines=I+am+an+innovation+mindset+person;I+build+and+create+new+things;I+solve+real+world+problems;I+think+creatively+and+build+solutions;Every+problem+is+an+opportunity+to+innovate" alt="Work words" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=900&color=A78BFA&center=true&vCenter=true&width=580&height=110&lines=lines=I+spot+problems+others+overlook+and+build+solutions;I+combine+deep+thinking+with+fast+execution;Research+prototype+test+deploy+repeat;I+treat+every+challenge+as+a+design+problem;Complexity+excites+me+simplicity+drives+me;I+build+not+just+to+ship+but+to+create+impact" alt="Work words" />
 
 </div>
 
@@ -223,7 +223,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=5BA4CF&center=true&vCenter=true&width=580&height=130&lines=I+am+an+innovation+mindset+person;I+build+to+create+new+things+in+the+world;I+solve+real+world+problems+with+AI;I+think+creatively+to+build+solutions;Every+problem+is+an+opportunity+to+build;Real+world+impact+is+my+goal" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=5BA4CF&center=true&vCenter=true&width=580&height=130&lines=I+don't+just+write+code+I+engineer+solutions;Every+problem+hides+an+opportunity+I+find+it;I+build+products+that+work+in+the+real+world;Innovation+is+not+a+buzzword+it+is+how+I+think;From+idea+to+deployment+I+own+the+full+journey;I+create+things+that+did+not+exist+before" alt="What I build" />
 
 </div>
 
